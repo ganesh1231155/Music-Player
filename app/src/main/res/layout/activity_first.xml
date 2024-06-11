@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    tools:context=".FirstActivity">
+
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="match_parent"
+        android:layout_height="533dp"
+        android:background="#000000"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingStart="5dp"
+                android:paddingLeft="5dp"
+                android:paddingTop="5dp"
+                android:paddingEnd="5dp"
+                android:paddingRight="5dp"
+                android:paddingBottom="5dp">
+
+                <ImageView
+                    android:id="@+id/bollywoodremix"
+                    android:layout_width="182dp"
+                    android:layout_height="124dp"
+                    app:srcCompat="@drawable/bollywoodremix"
+                    tools:layout_editor_absoluteX="43dp"
+                    tools:layout_editor_absoluteY="83dp" />
+
+                <ImageView
+                    android:id="@+id/party"
+                    android:layout_width="200dp"
+                    android:layout_height="125dp"
+                    app:srcCompat="@drawable/party"
+                    tools:layout_editor_absoluteX="43dp"
+                    tools:layout_editor_absoluteY="83dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingStart="5dp"
+                android:paddingLeft="5dp"
+                android:paddingTop="5dp"
+                android:paddingEnd="5dp"
+                android:paddingRight="5dp"
+                android:paddingBottom="5dp">
+
+                <ImageView
+                    android:id="@+id/love"
+                    android:layout_width="182dp"
+                    android:layout_height="124dp"
+                    app:srcCompat="@drawable/love"
+                    tools:layout_editor_absoluteX="43dp"
+                    tools:layout_editor_absoluteY="83dp" />
+
+                <ImageView
+                    android:id="@+id/sad"
+                    android:layout_width="200dp"
+                    android:layout_height="125dp"
+                    app:srcCompat="@drawable/sad"
+                    tools:layout_editor_absoluteX="43dp"
+                    tools:layout_editor_absoluteY="83dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingStart="5dp"
+                android:paddingLeft="5dp"
+                android:paddingTop="5dp"
+                android:paddingEnd="5dp"
+                android:paddingRight="5dp"
+                android:paddingBottom="5dp">
+
+                <ImageView
+                    android:id="@+id/badshah"
+                    android:layout_width="182dp"
+                    android:layout_height="124dp"
+                    app:srcCompat="@drawable/badshah"
+                    tools:layout_editor_absoluteX="43dp"
+                    tools:layout_editor_absoluteY="83dp" />
+
+                <ImageView
+                    android:id="@+id/arijit"
+                    android:layout_width="200dp"
+                    android:layout_height="125dp"
+                    app:srcCompat="@drawable/arijitsingh"
+                    tools:layout_editor_absoluteX="43dp"
+                    tools:layout_editor_absoluteY="83dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingStart="5dp"
+                android:paddingLeft="5dp"
+                android:paddingTop="5dp"
+                android:paddingEnd="5dp"
+                android:paddingRight="5dp"
+                android:paddingBottom="5dp">
+
+                <ImageView
+                    android:id="@+id/guru"
+                    android:layout_width="182dp"
+                    android:layout_height="124dp"
+                    app:srcCompat="@drawable/gururandhawa"
+                    tools:layout_editor_absoluteX="43dp"
+                    tools:layout_editor_absoluteY="83dp" />
+
+                <ImageView
+                    android:id="@+id/desicollab"
+                    android:layout_width="200dp"
+                    android:layout_height="125dp"
+                    app:srcCompat="@drawable/desicollab"
+                    tools:layout_editor_absoluteX="43dp"
+                    tools:layout_editor_absoluteY="83dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingStart="5dp"
+                android:paddingLeft="5dp"
+                android:paddingTop="5dp"
+                android:paddingEnd="5dp"
+                android:paddingRight="5dp"
+                android:paddingBottom="5dp">
+
+                <ImageView
+                    android:id="@+id/nehakakkar"
+                    android:layout_width="182dp"
+                    android:layout_height="124dp"
+                    app:srcCompat="@drawable/nehakakkar"
+                    tools:layout_editor_absoluteX="43dp"
+                    tools:layout_editor_absoluteY="83dp" />
+
+                <ImageView
+                    android:id="@+id/marathi"
+                    android:layout_width="200dp"
+                    android:layout_height="125dp"
+                    app:srcCompat="@drawable/marathe"
+                    tools:layout_editor_absoluteX="43dp"
+                    tools:layout_editor_absoluteY="83dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingStart="5dp"
+                android:paddingLeft="5dp"
+                android:paddingTop="5dp"
+                android:paddingEnd="5dp"
+                android:paddingRight="5dp"
+                android:paddingBottom="5dp">
+
+                <ImageView
+                    android:id="@+id/workout"
+                    android:layout_width="182dp"
+                    android:layout_height="124dp"
+                    app:srcCompat="@drawable/workout"
+                    tools:layout_editor_absoluteX="43dp"
+                    tools:layout_editor_absoluteY="83dp" />
+
+                <ImageView
+                    android:id="@+id/oldhits"
+                    android:layout_width="200dp"
+                    android:layout_height="125dp"
+                    app:srcCompat="@drawable/oldhits"
+                    tools:layout_editor_absoluteX="43dp"
+                    tools:layout_editor_absoluteY="83dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingStart="5dp"
+                android:paddingLeft="5dp"
+                android:paddingTop="5dp"
+                android:paddingEnd="5dp"
+                android:paddingRight="5dp"
+                android:paddingBottom="5dp">
+
+                <ImageView
+                    android:id="@+id/latahits"
+                    android:layout_width="182dp"
+                    android:layout_height="124dp"
+                    app:srcCompat="@drawable/latahits"
+                    tools:layout_editor_absoluteX="43dp"
+                    tools:layout_editor_absoluteY="83dp" />
+
+                <ImageView
+                    android:id="@+id/allgod"
+                    android:layout_width="200dp"
+                    android:layout_height="125dp"
+                    app:srcCompat="@drawable/god"
+                    tools:layout_editor_absoluteX="43dp"
+                    tools:layout_editor_absoluteY="83dp" />
+            </LinearLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/last"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginBottom="72dp"
+        android:background="#000000"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/scrollView2"
+        app:layout_constraintVertical_bias="0.0">
+
+        <ImageView
+            android:id="@+id/imgicon"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:visibility="invisible"
+            app:srcCompat="@drawable/icon" />
+
+        <TextView
+            android:id="@+id/lastsong"
+            android:layout_width="240dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:ellipsize="marquee"
+            android:gravity="center_vertical"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:paddingLeft="15dp"
+            android:scrollHorizontally="true"
+            android:singleLine="true"
+            android:textColor="#FA0055"
+            android:textSize="20sp"
+            android:textStyle="bold|italic"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/pre"
+            android:layout_width="48dp"
+            android:layout_height="60dp"
+            android:layout_marginStart="1dp"
+            android:layout_toEndOf="@+id/LastSong"
+            android:visibility="invisible"
+            app:srcCompat="@drawable/previous" />
+
+        <ImageView
+            android:id="@+id/ply"
+            android:layout_width="48dp"
+            android:layout_height="60dp"
+            android:layout_marginStart="0dp"
+            android:layout_toEndOf="@+id/pre"
+            android:visibility="invisible"
+            app:srcCompat="@drawable/pause" />
+
+        <ImageView
+            android:id="@+id/nex"
+            android:layout_width="48dp"
+            android:layout_height="60dp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="0dp"
+            android:layout_marginEnd="4dp"
+            android:layout_toEndOf="@+id/ply"
+            android:visibility="invisible"
+            app:srcCompat="@drawable/next" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginBottom="24dp"
+        android:background="#000000"
+        android:orientation="horizontal"
+
+        android:paddingBottom="5dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/last"
+        app:layout_constraintVertical_bias="0.075">
+
+        <ImageView
+            android:id="@+id/offline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/offline" />
+
+        <ImageView
+            android:id="@+id/online"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/search" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

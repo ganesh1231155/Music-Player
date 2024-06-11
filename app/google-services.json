@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "870517781497",
+    "firebase_url": "https://upload-songs-b1473-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "upload-songs-b1473",
+    "storage_bucket": "upload-songs-b1473.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870517781497:android:02ddcb997e69cd17e94328",
+        "android_client_info": {
+          "package_name": "com.kolte.firebaseconnection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870517781497-rup5bcc7dv00fs9s5p7f7nmddagq43co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkswiAiGhxoQCatAZZcMQkofmtKi1Zp2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870517781497-rup5bcc7dv00fs9s5p7f7nmddagq43co.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870517781497:android:51200041ad8a0fcee94328",
+        "android_client_info": {
+          "package_name": "com.kolte.music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870517781497-rup5bcc7dv00fs9s5p7f7nmddagq43co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkswiAiGhxoQCatAZZcMQkofmtKi1Zp2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870517781497-rup5bcc7dv00fs9s5p7f7nmddagq43co.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870517781497:android:84f067ec5733de09e94328",
+        "android_client_info": {
+          "package_name": "com.kolte.musicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870517781497-rup5bcc7dv00fs9s5p7f7nmddagq43co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkswiAiGhxoQCatAZZcMQkofmtKi1Zp2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870517781497-rup5bcc7dv00fs9s5p7f7nmddagq43co.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
